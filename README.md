@@ -1,4 +1,8 @@
-## Hi there 👋
+
+
+# Rho-p
+## 노준서의 블로그 [바로가기](https://Rho-p.github.io/blog/home.html)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rho-p&show_icons=true&theme=radical)
 
 <!--
 **Rho-p/Rho-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
